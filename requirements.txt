@@ -1,0 +1,6 @@
+pandas==0.24.2
+Werkzeug==0.14.1
+requests==2.21.0
+Flask==1.0.2
+openpyxl==2.6.1
+xlrd==1.2.0
